@@ -28,7 +28,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 100px 0 100px;
+    padding: 0 5% 0 5%;
     background-color: #1F2937;
 }
 
@@ -37,7 +37,7 @@ nav {
     justify-content: center;
     align-items: center;
     height: 80vh;
-    gap: 64px;
+    gap: 5%;
 }
 
 .left-hero {
@@ -97,26 +97,32 @@ img {
 .info-main {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 60px;
     flex-wrap: wrap;
     height: auto;
 }
 
 .info-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     font-size: 36px;
     font-weight: light italic;
     color: #1F2937;
-    max-width: 200px;
+    width: 20%;
     text-align: center;
 }
 
 .info-block p{
     color: #3d4755;
+    max-width: 60%;
 }
 
 .info-img {
-    height: 200px;
-    max-width: auto;
+    height: auto;
+    width: 50%;
 }
 
 /* TESTIMONIAL SECTION */
