@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is an excercise from The Odin Project which is meant to reinforce html and css concepts through the creation of a sample website. The focus of the project is to create a standard website layout primarily through the use of flexbox.
