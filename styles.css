@@ -83,6 +83,7 @@ img {
     font-size: 36px;
     font-weight: extra-bold;
     color: #1F2937;
+    margin-bottom: 4%;
 }
 
 .info {
@@ -91,7 +92,6 @@ img {
     justify-content: center;
     align-items: center;
     min-height: 50vh;
-    gap: 30px;
 }
 
 .info-main {
