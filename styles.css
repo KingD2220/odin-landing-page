@@ -36,6 +36,7 @@ nav {
 .main-hero {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 64px;
     padding: 0 150px 0 150px;
 }
